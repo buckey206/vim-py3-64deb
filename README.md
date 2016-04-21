@@ -1,11 +1,11 @@
 #Vim74 with python3 support .deb
 ####For amd64 compatable processors
-##Version info
+-----------------------------------
 
 ```
 vim --version
 ```
-
+__________________
 ```
 VIM - Vi IMproved 7.4 (2013 Aug 10, compiled Apr 20 2016 19:12:03)
 Included patches: 1-1760
