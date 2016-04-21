@@ -5,7 +5,7 @@
 ```
 vim --version
 ```
-__________________
+
 ```
 VIM - Vi IMproved 7.4 (2013 Aug 10, compiled Apr 20 2016 19:12:03)
 Included patches: 1-1760
